@@ -1,6 +1,4 @@
-# crypto-talks
-
-# 🪙 Crypto-Talks
+# 🪙 crypto-talks
 
 Welcome to **Crypto-Talks**! This repository is a dedicated space for learning, discussing, and documenting the evolving world of cryptocurrency and decentralized finance (DeFi).
 
