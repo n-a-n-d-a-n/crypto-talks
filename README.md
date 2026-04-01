@@ -50,7 +50,7 @@ A crypto "wallet" does not actually store coins; it stores the **private keys** 
 * **The Seed Phrase:** The master backup for a self-custody wallet, typically 12 to 24 randomly generated words. It must be stored entirely offline (on physical paper or metal). If lost, funds are permanently unrecoverable.
 
 ## 6. Advanced Security: Hardware Wallets
-Hardware wallets (Cold Storage) are physical devices that keep private keys completely offline, isolating them from internet-connected devices that could be compromised by malware.
+Hardware wallets (Cold Storage) are those physical devices that keep private keys completely offline, isolating them from internet-connected devices that could be compromised by malware.
 * **Best Practices:** * Only purchase directly from the official manufacturer.
   * A device must generate a *new* seed phrase upon setup. Pre-written seed phrases indicate a compromised device.
   * Always execute a small "test transaction" and recovery test before transferring significant capital.
