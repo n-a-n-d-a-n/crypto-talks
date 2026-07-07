@@ -114,13 +114,13 @@ npm run dev
 Visit:http://localhost:5173
 ------------------------------------------------------------
 Progress Status-
-| Component          | Status            |
-| ------------------ | ----------------- |
+| Component          | Status             |
+| ------------------ | -----------------  |
 | Smart Contract     | ✅ 100% Functional |
 | Wallet Integration | ✅ Working         |
 | Frontend UI        | ✅ Basic MVP       |
-| AI Backend         | ⚙️ Prototype      |
-| Full Integration   | 🔄 In Progress    |
+| AI Backend         | ⚙️ Prototype       |
+| Full Integration   | 🔄 In Progress     |
 -----------------------------------------------------------
 Why ScholarStream is Unique-
 1)Real-time allowance streaming
