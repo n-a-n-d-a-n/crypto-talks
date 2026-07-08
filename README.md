@@ -29,7 +29,7 @@
 
 ---
 
-## 🏆 ScholarStream — MLSC Algorand Hackspiration
+## 🏆 ScholarStream — MLSC Algorand Hackspiration 2026
 
 > Real-time student allowance streaming + AI financial mentor built on Algorand.
 
